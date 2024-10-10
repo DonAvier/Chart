@@ -1,0 +1,30 @@
+{
+  "name": "@PopUp/Charts",
+  "version": "0.0.1",
+  "description": "Pop up javascript tools for charts",
+  "main": "index.js",
+  "module": "index.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonAvier/Chart"
+  },
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "javascript",
+    "utils",
+    "utilities"
+  ],
+  "author": "Michele Lunghi",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/DonAvier/Chart/issues"
+  },
+  "homepage": "https://github.com/DonAvier/Chart#readme"
+}

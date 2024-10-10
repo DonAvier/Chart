@@ -1,0 +1,11 @@
+{
+  "name": "pop-up-graph-api",
+  "version": "0.0.1",
+  "author": "DonAvier - Michele Lunghi",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.4"
+  }
+}
